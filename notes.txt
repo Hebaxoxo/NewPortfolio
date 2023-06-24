@@ -1,0 +1,17 @@
+Background: #FFFFFF (White)
+Set the background color of the body element to #FFFFFF. This will give your website a white background.
+
+Lightest Shade: #E6DCD3
+You can use this color for elements that require a very light shade, such as subtle backgrounds or borders.
+
+Light Shade: #B4A79E
+This color can be used for section backgrounds, headings, and other elements that need a light shade but with more contrast than the lightest shade.
+
+Medium Shade: #BDA18C
+The medium shade can be applied to specific sections or elements to create a visual contrast and hierarchy within your design.
+
+Dark Shade: #3F352C
+Use this color for text, buttons, and other elements that require a dark shade to ensure readability and contrast against lighter backgrounds.
+
+Text and Accent: #000000 (Black)
+Set the color of your text to black (#000000) to ensure readability.

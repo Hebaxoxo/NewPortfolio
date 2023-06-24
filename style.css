@@ -1,0 +1,164 @@
+*{
+    top:0;
+    margin:0;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    background-color: #E6DCD3;
+}
+
+nav a{
+    text-decoration: none;
+    color: #3f352c;
+}
+nav ul{
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.banner{
+    padding:10%;
+    background: rgb(230,220,211);
+    background: linear-gradient(171deg, #e6dcd3 36%, rgba(255,255,255,1) 74%);
+    color:#3f352c;
+
+}
+
+#Contact-Me{
+    background-color: #b1b2a0;
+    border-style: solid;
+    border-color: #b1b2a0;
+    font-size: medium;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 8%;
+    color:white;
+}
+#Contact-Me:hover{
+    background-color: #54554a;
+    border-style:solid;
+    border-color: #54554a;
+
+}
+
+
+.Services {
+    display:flex;
+    flex-wrap: wrap;
+    padding: 5% 10%;
+    text-align: center;
+}
+.Service {
+    flex: 1 1 25%;
+    padding: 10px;
+    border-radius: 1%;
+    margin: 1%;
+    background-color: white;
+    color:#3F352C;
+    border: 2px solid #3F352C;
+}
+
+.Service img, p{
+    display: inline-block;
+}
+.Service p {
+    padding: 10px;
+    
+
+}
+.Portfolio{
+    background-color: white;
+    
+}
+.About{
+    color: #3f352c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Services{
+    color: #3f352c;
+
+}
+
+.Blog{
+    display: block;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.content-div {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.image {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.text {
+    flex-grow: 1;
+    color:black;
+}
+
+.text h3 {
+    margin-top: 0;
+}
+
+.text p {
+    margin-bottom: 0;
+}
+.Testimonial{
+    padding: 30px;
+
+    margin-left: 40%;
+    margin-right:45%;
+    margin-top: 50px;
+    width:15%;
+    height:auto;
+    border: 1px solid black;
+    border-radius: 3%;
+}
+.Testimonial img{
+    width:30%;
+}
+.Testimonial h4{
+    margin-bottom: 10px;
+    margin-top:10px;
+    color:#3f352c;
+}
+.Testimonials{
+    width:100%;
+    padding-top: 50px;
+
+}
+.social-icons{
+    margin-top: 200px;
+    margin-left: 49%;
+    width: 100%;
+    
+    
+}
+.carrd-icon {
+    background-color: #ffffff;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    font-size: 16px;
+  }
+  #About-Me p{
+    padding: 0 10%;
+    font-size: medium;
+  }
